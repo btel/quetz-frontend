@@ -36,9 +36,13 @@
     "@jupyterlab/theme-light-extension": "^3.0.0-rc.10",
     "@jupyterlab/ui-components": "^3.0.0-rc.10",
     "@lumino/widgets": "^1.14.0",
-    "es6-promise": "~4.2.8"
+    "lodash": "^4.17.20",
+    "react-table": "^7.6.2",
+    "styled-components": "^5.2.1"
   },
   "devDependencies": {
+    "@types/react-table": "^7.0.25",
+    "@types/styled-components": "^5.1.4",
     "@typescript-eslint/eslint-plugin": "^4.2.0",
     "@typescript-eslint/parser": "^4.2.0",
     "css-loader": "~3.2.0",
